@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705068087898",
+    "project_id": "pairlove",
+    "storage_bucket": "pairlove.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705068087898:android:59beef1d9dc2882b093663",
+        "android_client_info": {
+          "package_name": "com.pairlove.pairlove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCsJoVpvZTfo7CSednaE00f3r-2ZuaFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
